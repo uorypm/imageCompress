@@ -5,10 +5,10 @@ namespace Image;
 use Imagick;
 
 /**
- * Class Image
+ * Class Compressor
  * @package Image
  */
-class Image
+class Compressor
 {
     /**
      * @var int Максимальное разрешение по оси X
